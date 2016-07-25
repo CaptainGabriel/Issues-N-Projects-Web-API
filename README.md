@@ -10,6 +10,10 @@ A self-hosted hypermedia web API made with ASP .NET Web API 2.0 and web client u
 * Segment '/' serves the web client;
 * Segment '/api' serves the api's homepage.
 
+
+You can run `npm run build` and start serving the web API.
+
+
 Todo:
 * Access control with Google-Sign-On API;
 * bug fixes;
